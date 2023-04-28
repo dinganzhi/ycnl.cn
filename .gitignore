@@ -1,7 +1,5 @@
+.bundle
+.sass-cache
+Gemfile.lock
 _site
-node_modules
-npm-debug.log
-.DS_Store
-*/.DS_Store
-*/*/.DS_Store
-*.sh
+*.gem
