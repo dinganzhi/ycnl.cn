@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Buttons
-permalink: /Buttoms/
+title: 市场及下载
+permalink: /market_downloads/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>

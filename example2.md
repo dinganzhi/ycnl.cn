@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CSS
-permalink: /css/
+title: 文档
+permalink: /docs/ycnl/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>

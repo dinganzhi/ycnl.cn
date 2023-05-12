@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Table
-permalink: /table/
+title: 副产品及其他
+permalink: /things_else/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
