@@ -1,0 +1,50 @@
+p.main {text-align:justify;}
+a {color:#4db7ff;}
+div.warn
+{
+    width:1000px;
+    height:70px;
+    margin:auto;
+    text-align:center;
+    border-left-style:solid;
+    border-width:7px;
+    border-color:#ffcd00;
+    background-color:#ffe166;
+    font-style:normal;
+    font-family:serif;
+    font-size:17px
+}
+div.msg
+{
+    width:1000px;
+    height:70px;
+    margin:auto;
+    text-align:center;
+    border-left-style:solid;
+    border-width:7px;
+    border-color:#4db7ff;
+    background-color:#ccffff;
+    font-style:normal;
+    font-family:serif;
+    font-size:17px
+}
+img.warn
+{
+    vertical-align:middle;
+    text-align:center;
+}
+img.msg
+{
+    vertical-align:bottom;
+    text-align:center;
+}
+pre.warn
+{
+    vertical-align:top;
+    text-align:center;
+}
+pre.msg
+{
+    vertical-align:top;
+    text-align:center;
+}
